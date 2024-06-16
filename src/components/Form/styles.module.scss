@@ -1,0 +1,18 @@
+.form {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+h2.innerTitle {
+    font-size: 26px;
+    font-weight: 500;
+    line-height: 120%;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.innerButtons {
+    display: grid;
+    gap: 10px;
+}
